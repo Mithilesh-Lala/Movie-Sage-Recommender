@@ -13,7 +13,7 @@ Movie Sage Recommender is an advanced movie recommendation system built with Pyt
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/movie-sage-recommender.git
+   git clone https://github.com/Mithilesh-Lala/Movie-Sage-Recommender.git
    cd movie-sage-recommender
    ```
 
